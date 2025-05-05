@@ -1,4 +1,6 @@
 # Child Face Generator
+![image](https://github.com/user-attachments/assets/16310841-7167-4de9-a4ff-cddd37b91571)
+![image](https://github.com/user-attachments/assets/f694c7ec-0b22-442e-9ddc-d21d8ad59bf6)
 
 This project uses StyleGAN and encoder4editing to generate child faces from parent faces using a learned weighting model.
 
